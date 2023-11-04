@@ -5,4 +5,6 @@ It's a visual effect that gives depth to a website by moving different page elem
 Websites can use parallax scrolling for a variety of effects. Here are two examples:
 
 -Example 1: [Firewatch](https://www.firewatchgame.com/) simulates an immersive gameplay experience
+
+
 -Example 2: [Anton & Irene](https://antonandirene.com/) appear to personally present information about their work
