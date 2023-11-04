@@ -11,3 +11,6 @@ Websites can use parallax scrolling for a variety of effects. Here are two examp
 
 Here is a demo of the project:
 ![step1_with_z_index](https://github.com/Tnjdh014/NaturesHideoutText/assets/125633220/3c766449-c257-4e0a-b05d-7dfb19aaaf17)
+
+Addtionally, the files provided are the source code so you can add-on or manipulate existing files of your own project
+
