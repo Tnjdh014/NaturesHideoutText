@@ -7,3 +7,7 @@ Websites can use parallax scrolling for a variety of effects. Here are two examp
 -Example 1: [Firewatch](https://www.firewatchgame.com/) simulates an immersive gameplay experience
 
 -Example 2: [Anton & Irene](https://antonandirene.com/) appear to personally present information about their work
+
+
+Here is a demo of the project:
+![step1_with_z_index](https://github.com/Tnjdh014/NaturesHideoutText/assets/125633220/3c766449-c257-4e0a-b05d-7dfb19aaaf17)
